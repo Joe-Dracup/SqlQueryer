@@ -1,0 +1,9 @@
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\bin\Debug\UserIdLookup.exe.config
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\bin\Debug\UserIdLookup.exe
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\bin\Debug\UserIdLookup.pdb
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\obj\Debug\UserIdLookup.csprojResolveAssemblyReference.cache
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\obj\Debug\UserIdLookup.Form1.resources
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\obj\Debug\UserIdLookup.Properties.Resources.resources
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\obj\Debug\UserIdLookup.csproj.GenerateResource.Cache
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\obj\Debug\UserIdLookup.exe
+C:\Users\josephdracup\Source\Repos\UserIdLookup\UserIdLookup\obj\Debug\UserIdLookup.pdb
